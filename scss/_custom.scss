@@ -1,3 +1,4 @@
+@import "../node_modules/bootstrap/scss/bootstrap";
 // Custom.scss
 // Option A: Include all of Bootstrap
 
@@ -5,7 +6,7 @@
 $primary: #2E8B57;
 $secondary: #4ABB7C;
 $background: #9E8573
-
-@import "../node_modules/bootstrap/scss/bootstrap";
+$font-family-sans-serif-:"montserra",sans-serif !default;
+$font-family-serif:"hind madurai", serif !default;
 
 // Then add additional custom code here
