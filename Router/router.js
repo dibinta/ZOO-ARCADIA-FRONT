@@ -1,4 +1,4 @@
-import Route from "./route.js";
+/*import Route from "./route.js";
 
 import { allRoutes, websiteName } from "./allroutes.js";
 
@@ -108,4 +108,4 @@ window.route = routeEvent;
 
 // Chargement du contenu de la page au chargement initial
 
-LoadContentPage();
+LoadContentPage();*/
